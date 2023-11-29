@@ -17,8 +17,8 @@
 ##### Lessons of:
 1. [Java SE](https://github.com/den14-dn/job4j](https://github.com/den14-dn/job4j_tracker))
 ##### Projects:
-1. [URL shortening service](https://github.com/ShamRail/diplom.git)
-2. [GopherMart](https://github.com/ShamRail/job4j_tracker)
+1. [URL shortening service](https://github.com/den14-dn/go-shortener-url)
+2. [GopherMart](https://github.com/den14-dn/gophermart)
 3. [Gophkeeper](https://github.com/den14-dn/gophkeeper)
 
 ![Denis's github stats](https://github-readme-stats.vercel.app/api?username=den14-dn&hide=stars,prs,issues,contribs)
